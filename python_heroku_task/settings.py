@@ -45,8 +45,8 @@ INSTALLED_APPS = [
     'django.contrib.sessions',
     'django.contrib.messages',
     'django.contrib.staticfiles',
-    #'blog.apps.BlogConfig',
-    'blog'
+    'blog.apps.BlogConfig',
+    #'blog'
 ]
 
 #FALTA AGREGAR NOMBRE DE APP A INSTALLED_APP
